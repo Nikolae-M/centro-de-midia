@@ -17,8 +17,5 @@ como "distribuição própria" (gratuito, assinatura automática) e instale o .x
 USAR
 - Entre normalmente no Letterboxd, Backloggd e Skoob no navegador onde instalou.
   A extensão encontra seu perfil sozinha; se não achar, o card pede o link (uma vez).
-- "Nova review": escolha Filmes/Jogos/Livros, digite o título, escolha, dê nota e escreva.
-  Ao salvar, o site do título abre com um painel que preenche o texto. Confira, marque a nota,
-  clique em Salvar no site e depois em "Marcar publicado".
 
 Os dados ficam no próprio navegador; Opera e Firefox não compartilham nada entre si.
